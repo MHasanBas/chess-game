@@ -1,6 +1,16 @@
 # Chess Game
-# ♔♕♗♘♙♖♜♟♞♝♛♚
-Welcome to the **Chess Game** built using React.js! This is a fully functional, interactive chess game featuring a modern UI and smooth gameplay. The project leverages various modern web development technologies like Redux Toolkit, React Confetti Explosion, and more to enhance the game-playing experience.
+# ♔♕♗♘♙♖♜♟♞♝♛♚  
+**Ultimate Chess Game**  
+
+Welcome to the **Ultimate Chess Experience**, a fully interactive and modern chess game built with **React.js**. Whether you're a beginner or a seasoned player, this game offers smooth gameplay and a visually stunning interface to make every match exciting.  
+
+## ✨ Features  
+- 🧠 **Smart Gameplay**: Enjoy intuitive mechanics designed for strategic play.  
+- ⚡ **Modern Technologies**: Powered by **React.js**, with state management using **Redux Toolkit**.  
+- 🎉 **Dynamic Animations**: Celebrate your victories with **React Confetti Explosion** effects.  
+- 📱 **Responsive Design**: Seamlessly playable on desktop, tablet, or mobile devices.  
+- 🎨 **Modern User Interface**: A clean and stylish design for an enhanced experience.  
+
 
 ## 🖼️ Screenshot
 ![](https://github.com/MHasanBas/chess-game/blob/main/src/assets/review.png)
@@ -8,7 +18,7 @@ Welcome to the **Chess Game** built using React.js! This is a fully functional, 
 
 ## 🚀 Demo
 
-[Live Demo](https://chesslegends.netlify.app/)
+[Click to Try App](https://chess-hasan.netlify.app/)
 
 ## 🛠️ Technologies Used
 
@@ -23,7 +33,7 @@ Welcome to the **Chess Game** built using React.js! This is a fully functional, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/simranlotey/react-chess-game.git
+   git clone https://github.com/MHasanBas/chess-game.git
    ```
 
 2. Navigate into the project directory:
@@ -51,11 +61,3 @@ Welcome to the **Chess Game** built using React.js! This is a fully functional, 
 - **Confetti explosion effects** for celebrating game wins
 - **Smooth state management** using Redux for game states and logic
 - **Code quality enforced** with ESLint
-
-## 🛡️ Code Quality
-
-This project follows the **Airbnb ESLint** configuration to maintain code consistency and best practices. Before pushing any changes, ensure that your code passes the linter:
-
-```
-npm run lint
-```
