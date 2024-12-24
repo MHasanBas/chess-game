@@ -3,7 +3,7 @@
 Welcome to the **Chess Game** built using React.js! This is a fully functional, interactive chess game featuring a modern UI and smooth gameplay. The project leverages various modern web development technologies like Redux Toolkit, React Confetti Explosion, and more to enhance the game-playing experience.
 
 ## 🖼️ Screenshot
-![](https://github.com/simranlotey/react-chess-game/blob/master/src/assets/review.png)
+![](https://github.com/MHasanBas/chess-game/blob/master/src/assets/review.png)
 
 
 ## 🚀 Demo
